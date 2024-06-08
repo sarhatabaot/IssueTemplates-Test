@@ -30,7 +30,6 @@ body:
       options:
         - 1.7 (latest)
         - Development
-      default: 1.7
     validations:
       required: true
   - type: input
